@@ -1,0 +1,26 @@
+Java Junior Developer
+Errores Logicos 
+Esto se puede dar gracias a que no hemos escrito bien nuestro codigo o tambien que no hemos ingresado 
+bien el codigo de nuestra clase o simplemente no hemos entrado bien al directorio donde se encuentra
+el codigo del programa.
+
+Errores sintacticos 
+Esto se debe ya que no hemos declarado bien unos parentesis, llaves, corchetes,
+o simplemnete tambien no hemos un punto y coma.
+
+Tipos de datos en java 
+
+Primitivos:
+Eneteros:
+byte(-128 hasta 127)
+short(-32,768 hasta 32,767)
+int(-2,147,483,648 hasta 2,147,483,647)
+long (Muy grande)
+
+Decimales:
+float
+double
+
+Otros
+char(Un solo cararter)
+boolean(true | false)
