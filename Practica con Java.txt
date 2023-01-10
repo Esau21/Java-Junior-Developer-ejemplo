@@ -24,3 +24,12 @@ double
 Otros
 char(Un solo cararter)
 boolean(true | false)
+
+Tipos Objetos:
+String(cadenas de texto)
+ejemplo "Hola mundo"
+
+Variable:
+vamos a especificar el tipo y el nombre de la varibale ejemplo:
+
+Tipo: int           nombre: num1
