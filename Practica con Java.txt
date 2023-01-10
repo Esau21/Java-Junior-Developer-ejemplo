@@ -33,3 +33,14 @@ Variable:
 vamos a especificar el tipo y el nombre de la varibale ejemplo:
 
 Tipo: int           nombre: num1
+
+Operadores Aritmeticos en programacion java:
+
+signo   nombre_del_signo    tipo_de_operacion
++           Mas                 CTRL+
+-           Resta               CTRL+-
+*           Multiplicacion      CTRL+8
+/           Division            CTRL+7
+^           Potencia            CTRL+6
+(           Prioridad entre operaciones CTRL+9
+)           Prioridad entre opercaiones CTRL+0
