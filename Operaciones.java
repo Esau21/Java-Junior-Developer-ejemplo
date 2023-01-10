@@ -10,6 +10,14 @@ public class Operaciones {
         y cuanto num_2 = 6 entonces esto seria 6 / 2 = 3 y 3 + 6 serian 9 */
         result = num_1 + num_2 / 2;
 
-        System.out.println("El resultado para esta expresion es : " + result);
+        System.out.println("El resultado para esta expresion es Incorrecta : " + result);
+
+
+        /* ahora vamos a ocupar la prioridad de los signos es decir que va tomar todo lo que este adentro de los parentesis 
+        y ese va ser el resultado correcto */
+
+        result = (num_1 + num_2) / 2;
+
+        System.out.println("El resultado para esta expresion es correcta : " + result);
     }
 }
